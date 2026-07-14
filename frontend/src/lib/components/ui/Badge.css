@@ -1,0 +1,18 @@
+.badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+}
+.badge.ok {
+  background: rgba(75, 227, 160, 0.14);
+  color: #4be3a0;
+}
+.badge.run {
+  background: rgba(47, 124, 255, 0.16);
+  color: var(--ruyi-blue-light);
+}
+.badge.warn {
+  background: rgba(212, 178, 113, 0.16);
+  color: var(--ruyi-gold-soft);
+}

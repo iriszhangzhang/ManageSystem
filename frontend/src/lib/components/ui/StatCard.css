@@ -1,0 +1,29 @@
+.stat .label {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+.stat .value {
+  font-size: 30px;
+  font-weight: 700;
+  color: var(--text-strong);
+  margin-top: 10px;
+  letter-spacing: 1px;
+}
+.stat .delta {
+  margin-top: 8px;
+  font-size: 12px;
+}
+.stat .delta.up {
+  color: #4be3a0;
+}
+.stat .delta.down {
+  color: #ff8a8a;
+}
+.stat .spark {
+  position: absolute;
+  right: 14px;
+  bottom: 12px;
+  width: 64px;
+  height: 28px;
+  opacity: 0.7;
+}

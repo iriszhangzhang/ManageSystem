@@ -1,0 +1,23 @@
+:root {
+  /* 如意国风科技蓝 · 主色（默认主题，可整体替换为其他主题 token） */
+  --ruyi-deep: #061226;
+  --ruyi-navy: #0b1f3f;
+  --ruyi-panel: #102a4c;
+  --ruyi-panel-soft: rgba(20, 46, 84, 0.55);
+  --ruyi-blue: #2f7cff;
+  --ruyi-blue-light: #5fa0ff;
+  --ruyi-cyan: #36d6e7;
+  --ruyi-gold: #d4b271;
+  --ruyi-gold-soft: #e6cd94;
+
+  --text-strong: #eaf2ff;
+  --text: #c6d6f0;
+  --text-muted: #8198bd;
+  --line: rgba(120, 160, 220, 0.16);
+  --line-gold: rgba(212, 178, 113, 0.35);
+
+  --topbar-h: 60px;
+  --sidebar-w: 224px;
+  --radius: 14px;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
